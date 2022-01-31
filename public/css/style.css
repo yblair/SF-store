@@ -1,0 +1,126 @@
+*{
+    font-family: 'Merriweather', serif;
+    box-sizing: border-box;
+    
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: black;
+    border-color: gray;
+}
+
+.btn-outline-success {
+    color: black;
+    border-color: black;
+}
+
+button{
+    font: 'Merriweather', serif;
+}
+
+/*.card{
+    width: 25%;
+    margin: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.288);
+
+
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}*/
+
+.container-fluid ul{
+
+list-style: none;
+text-decoration: none;
+align-items: center;
+justify-content: center;
+}
+
+
+
+.container-fluid ul li{
+     text-decoration: none;
+     display: inline-block;
+     justify-content: center;
+     align-items: center;
+     
+ }
+
+.container-fluid ul li a{
+   color: black;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+
+
+    
+}
+
+.hero{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.carousel slide {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+}
+
+/*<% products.forEach(product => { %>
+            <h3><%= product.name %></h3>
+        <% }) %>*/
+
+
+/*.card-group{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    
+}*/
+
+.Sale-card{
+  
+    background-color: black;
+    padding: 5px;
+    margin: 5px;
+    
+}
+.row {
+    min-width: 100%;
+    display: flex;
+
+}
+.p{
+    
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+}
+
+.Sale-card p{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+.container-footer{
+    display: flex;
+    justify-content: center;
+}
+
+.row-footer{
+   
+   justify-content: center;
+    margin:10px;
+    
+}

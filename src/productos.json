@@ -1,0 +1,51 @@
+[
+    
+    {
+      "name": "Bruna T.",
+      "price": "10900",
+      "muted": "Ultimas unidades en stock",
+      "img": "img/borcegos2.png"
+    },
+    {
+      "name": "Marta",
+      "price": "19900",
+      "muted": "Ultimas unidades en stock",
+      "img": "img/borcegos1.png"
+    },
+    {
+      "name": "Animal Skin",
+      "price": "8990",
+      "muted": "Ultimas unidades en stock",
+      "img": "img/botas1.png"
+    },
+    {
+      "name": "Lenna",
+      "price": "10500",
+      "muted": "Ultimas unidades en stock",
+      "img": "img/botas2.png"
+    },
+    {
+      "name": "Victoria",
+      "price": "14250",
+      "muted": "Ultimas unidades en stock",
+      "img": "img/botas3.png"
+    },
+    {
+      "name": "Carla B.",
+      "price": "9000",
+      "muted": "Ultimas unidades en stock",
+      "img": "img/botas4.png"
+    },
+    {
+      "name": "Alenna",
+      "price": "12590",
+      "muted": "Ultimas unidades en stock",
+      "img": "img/zapatos1.png"
+    },
+    {
+      "name": "Milka",
+      "price": "10230",
+      "muted": "Ultimas unidades en stock",
+      "img": "img/zapatos2.png"
+    }
+  ]
